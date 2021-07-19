@@ -13,7 +13,7 @@ npm start
 ```
 
 ## Usage
-Watch this YouTube video to see the project.
-[![IMAGE ALT TEXT HERE](http://i3.ytimg.com/vi/FQrlg2wS_VU/hqdefault.jpg)](https://youtu.be/FQrlg2wS_VU)
-You can also view the live project here:
+Watch this YouTube video to see the project. <br/>
+[![IMAGE ALT TEXT HERE](http://i3.ytimg.com/vi/FQrlg2wS_VU/hqdefault.jpg)](https://youtu.be/FQrlg2wS_VU) <br/>
+You can also view the live project here: <br/>
 [Sorting Visualizer](https://patrickgarlow.github.io/sorting-visualizer/)
