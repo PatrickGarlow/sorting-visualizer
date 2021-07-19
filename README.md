@@ -5,7 +5,7 @@ This is a Sorting Algorithm Visualizer, that visualizes six different sorting al
 
 ## Installation
 
-Use the following commands to run the application.<br/>
+Use the following commands to run the application.
 Open http://localhost:3000 to view it in the browser.
 
 ```bash
